@@ -1,6 +1,7 @@
 /* style.css */
 
-* {
+h1,
+h2 {
     font-family: "Brush Script MT";
 }
 
@@ -10,4 +11,8 @@ h1 {
 
 img {
     text-align: center;
+}
+
+li {
+    font-family: helvetica;
 }
